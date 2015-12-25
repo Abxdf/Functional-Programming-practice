@@ -1,1 +1,1 @@
-# Functional-Programming-practice
+Functional Programming practice using Racket programming language
